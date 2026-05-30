@@ -7,7 +7,7 @@ Plataforma de pedidos em microsserviços com Docker, Kubernetes, CI/CD e Observa
 - [Relatório Prático](./relatorio_pratico_loja_veloz.pdf)
 
 ## 🎥 Vídeo Pitch
-[Link do YouTube](https://youtu.be/W3Ek1ae6sg0)
+[Link do YouTube](https://youtu.be/Tt9XAj-3Dl0)
 
 ## 📊 Slides
 - [Apresentação PPTX](./pitch_loja_veloz.pptx)
